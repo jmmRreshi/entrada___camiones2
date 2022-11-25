@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.datatable{
+    max-width: 800px;
+    width: 80%;
+    margin: auto;
+    padding: 5px;
+    border: 1px solid magenta;
+    column-gap: 50px;
+    gap: 3px;
+}
+
